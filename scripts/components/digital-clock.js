@@ -11,8 +11,7 @@ const displayDigitalClock = (cellNum) => {
   startTime(digitalClockElm); 
 }
 
-
-const startTime = (cellToUpdate) => {
+{
   const today = new Date();
   let h = today.getHours();
   let m = today.getMinutes();
