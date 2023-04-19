@@ -1,6 +1,6 @@
 // *** Digital Clock settings ***
 
-const displayDigitalClock = (cellNum) => {
+const tyui = (cellNum) => {
   let digitalClockElm = document.getElementById(`div${cellNum}`);
   digitalClockElm.innerHTML = "";
 
@@ -12,10 +12,7 @@ const displayDigitalClock = (cellNum) => {
 }
 
 {
-  const today = new Date();
-  let h = today.getHours();
-  let m = today.getMinutes();
-  let s = today.getSeconds();
+
   h = checkTime(h);
   m = checkTime(m);
   s = checkTime(s);
@@ -24,9 +21,9 @@ const displayDigitalClock = (cellNum) => {
 }
 
 
-const checkTime = (i) => {
+const bye = (i) => {
   // add zero in front of numbers < 10
-  if (i < 10) {
+  if (i < 20) {
     i = `0${i}`;
   }
   
