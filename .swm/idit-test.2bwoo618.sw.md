@@ -13,9 +13,7 @@ Luctus accumsan tortor posuere ac ut consequat semper. Sapien faucibus et molest
 
 <br/>
 
-<br/>
-
-
+comment 1
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 scripts/globals.js
 ```javascript
@@ -29,7 +27,7 @@ Luctus accumsan tortor posuere ac ut consequat semper. Sapien faucibus et molest
 
 <br/>
 
-
+This code defines a function `getGridDetails` that takes in a `url`, number of `rows` and `cols` as arguments. It checks if the `rows` and `cols` values are between 1 to 4 and throws an error if not. Lastly, it calls a function `createNewDivs` with the `rows` and `cols` as arguments.
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 scripts/script.js
 ```javascript
@@ -50,7 +48,7 @@ Luctus accumsan tortor posuere ac ut consequat semper. Sapien faucibus et molest
 
 <br/>
 
-
+`rel`<swm-token data-swm-token=":index.html:5:4:4:`	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;styles/style.css&quot;&gt;`"/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 index.html
 ```html
@@ -58,6 +56,12 @@ Luctus accumsan tortor posuere ac ut consequat semper. Sapien faucibus et molest
 4      	<title>Smart Mirror</title>
 5      	<link rel="stylesheet" type="text/css" href="styles/style.css">
 ```
+
+<br/>
+
+`device`<swm-token data-swm-token=":index.html:7:15:15:`	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;`"/>
+
+`fiv0`<swm-token data-swm-token=":index.html:11:38:38:`&lt;!-- 	&lt;iframe src=&quot;http://free.timeanddate.com/clock/i6lwnt92/n110/szw110/szh110/hocddd/hbw0/hfc000/cf100/hgr0/fav0/fiv0/mqcfff/mql15/mqw8/mqd100/mhcfff/mhl15/mhw4/mhd100/mmv0/hhcff9/hmcff9&quot; frameborder=&quot;0&quot; width=&quot;110&quot; height=&quot;110&quot;&gt;&lt;/iframe&gt; --&gt;`"/>
 
 <br/>
 
@@ -81,13 +85,12 @@ Moving --> Still
 Moving --> Crash
 Crash --> [\*]
 
-
 ```
-<!--MCONTENT {content: "stateDiagram-v2<br/>\n\\[\\*\\] \\-\\-\\> Still<br/>\nStill \\-\\-\\> \\[\\*\\]<br/>\nStill \\-\\-\\> Moving<br/>\nMoving \\-\\-\\> Still<br/>\nMoving \\-\\-\\> Crash<br/>\nCrash \\-\\-\\> \\[\\*\\]<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "stateDiagram-v2<br/>\n\\[\\*\\] \\-\\-\\> Still<br/>\nStill \\-\\-\\> \\[\\*\\]<br/>\nStill \\-\\-\\> Moving<br/>\nMoving \\-\\-\\> Still<br/>\nMoving \\-\\-\\> Crash<br/>\nCrash \\-\\-\\> \\[\\*\\]<br/>\n<br/>"} --->
 
 <br/>
 
-<div align="center"><img src="https://media1.giphy.com/media/7Yuutd7WkNREOEHgmy/giphy.gif?cid=d56c4a8bjnt86b9clxa56xuvttxhk7ysxz8uexbo7by8xadk&ep=v1_gifs_trending&rid=giphy.gif&ct=g" style="width:'50%'"/></div>
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0%3D%2F69108922-75cc-4f6f-8345-7ea9b540bf29.png?alt=media&token=b0f1b9d4-72cf-43b0-97bf-9527f19cb4b3" style="width:'50%'"/></div>
 
 <br/>
 
