@@ -27,6 +27,10 @@ comment 1
 
 <br/>
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Magna sit amet purus gravida quis blandit turpis cursus in. Viverra vitae congue eu consequat ac felis donec et odio. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Tristique senectus et netus et. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Id eu nisl nunc mi. Senectus et netus et malesuada fames ac turpis. Et ligula ullamcorper malesuada proin libero nunc consequat. Tellus at urna condimentum mattis pellentesque id. Tortor pretium viverra suspendisse potenti nullam ac.
+
+<br/>
+
 This code defines a function `getGridDetails` that takes in a `url`, number of `rows` and `cols` as arguments. It checks if the `rows` and `cols` values are between 1 to 4 and throws an error if not. Lastly, it calls a function `createNewDivs` with the `rows` and `cols` as arguments.
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 scripts/script.js
@@ -48,16 +52,7 @@ This code defines a function `getGridDetails` that takes in a `url`, number of `
 
 <br/>
 
-`rel`<swm-token data-swm-token=":index.html:5:4:4:`	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;styles/style.css&quot;&gt;`"/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 index.html
-```html
-3      <head>
-4      	<title>Smart Mirror</title>
-5      	<link rel="stylesheet" type="text/css" href="styles/style.css">
-```
-
-<br/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Magna sit amet purus gravida quis blandit turpis cursus in. Viverra vitae congue eu consequat ac felis donec et odio. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Tristique senectus et netus et. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Id eu nisl nunc mi. Senectus et netus et malesuada fames ac turpis. Et ligula ullamcorper malesuada proin libero nunc consequat. Tellus at urna condimentum mattis pellentesque id. Tortor pretium viverra suspendisse potenti nullam ac.
 
 `device`<swm-token data-swm-token=":index.html:7:15:15:`	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;`"/>
 
@@ -70,6 +65,12 @@ This code defines a function `getGridDetails` that takes in a `url`, number of `
 <br/>
 
 [[sym-link:(f12068e7-0df5-4485-a179-900f8c28e0cc)Doc 2]]
+
+<br/>
+
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0%3D%2F69108922-75cc-4f6f-8345-7ea9b540bf29.png?alt=media&token=b0f1b9d4-72cf-43b0-97bf-9527f19cb4b3" style="width:'50%'"/></div>
+
+<br/>
 
 [[sym-mention:(e60fe056-825c-455f-ac27-8dc2e3db85a7|Z5vhe3)Idit Yeger]]
 
@@ -90,11 +91,14 @@ Crash --> [\*]
 
 <br/>
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0%3D%2F69108922-75cc-4f6f-8345-7ea9b540bf29.png?alt=media&token=b0f1b9d4-72cf-43b0-97bf-9527f19cb4b3" style="width:'50%'"/></div>
-
-<br/>
-
-[<--VIDEO-->](https://www.youtube.com/watch?v=-utH17XunI8)
+`rel`<swm-token data-swm-token=":index.html:5:4:4:`	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;styles/style.css&quot;&gt;`"/>
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 index.html
+```html
+3      <head>
+4      	<title>Smart Mirror</title>
+5      	<link rel="stylesheet" type="text/css" href="styles/style.css">
+```
 
 <br/>
 
