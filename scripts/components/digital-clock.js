@@ -33,7 +33,7 @@ const checkTime = (i) => {
   
   return i;
 }
-const buildingClock = () => {
+const buildingClock2 = () => {
   const today = new Date();
   let h = today.getHours();
   let m = today.getMinutes();
