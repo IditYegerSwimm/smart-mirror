@@ -1,5 +1,5 @@
 ---
-title: Amex new doc from user Idit
+title: Amex new doc from user Idit - Renaming
 ---
 I'm editing this doc with user Idit.123456
 
@@ -19,4 +19,4 @@ I'll add some snippet here:
 
 </SwmSnippet>
 
-<SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0=" repo-name="smart-mirror"><sup>Powered by [Swimm](https://swimm-web-app.web.app/)</sup></SwmMeta>
+<SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0=" repo-name="smart-mirror"><sup>Powered by [Swimm](https://staging.swimm.cloud/)</sup></SwmMeta>
