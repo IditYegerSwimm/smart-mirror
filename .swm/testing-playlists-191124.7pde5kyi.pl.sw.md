@@ -8,6 +8,10 @@ app_version: 1.39.0
 <!-- Intro - Do not remove this comment -->
 This is a release day test.
 
+[https://www.youtube.com/watch?v=wCu3jyiuwb4](https://www.youtube.com/watch?v=wCu3jyiuwb4)
+
+<br/>
+
 <br/>
 
 <!-- Steps - Do not remove this comment -->
