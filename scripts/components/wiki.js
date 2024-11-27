@@ -1,7 +1,7 @@
 // *** Wikipedia ***
 // /wiki/Special:Random
 
-const loadWiki12345gfbgfgb = (cellNum) => {
+const loadWiki = (cellNum) => {
   // Set the wiki div
   let wikiContainer = document.getElementById(`div${cellNum}`);
   wikiContainer.innerHTML = "";

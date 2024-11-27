@@ -1,7 +1,7 @@
 import { getImgSize } from '../globals.js';
 
 // *** Analog Clock settings ***
-export const analogClockCellsArray = [null];
+export const analogClockCellsArray = [];
 
 export const displayAnalogClock123 = (cellNum) => {
   // Set the div of the clock
@@ -18,7 +18,7 @@ const createClockCanvas = (parent) => {
   // Create the div
   let canvas = document.createElement("canvas");
   canvas.setAttribute("id", "clock-canvas");
-  
+
   // Adjust the canvas size to the size of its parent div
   let size = getImgSize(1, parent);
   canvas.width = size;
@@ -28,7 +28,7 @@ const createClockCanvas = (parent) => {
   parent.appendChild(canvas);
 
   let ctx = canvas.getContext("2d");
-  
+
   let radius = canvas.height / 2;
   ctx.translate(radius, radius);
   radius = radius * 0.90;
@@ -37,10 +37,10 @@ const createClockCanvas = (parent) => {
   setInterval(drawClock, 1000, [ctx, radius]);
 }
 
-let drawClockTest = (params) => {
+const drawClock = (params) => {
   let ctx = params[0];
   let radius = params[1];
-  
+
   ctx.arc(0, 0, radius, 0 , 2 * Math.PI);
   ctx.fill();
 
