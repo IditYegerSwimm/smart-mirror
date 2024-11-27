@@ -13,7 +13,7 @@ const buildLayout = (url, rows, cols) => {
 const getGridDetails = (url, rows, cols) => {
 
   if (isNaN(rows) || rows > 4 || rows < 1) {
-    // Do nothing
+    throw new Error("rows value must be a number between 1 to 4");
   }
 
   if (isNaN(cols) || cols > 4 || cols < 1) {
@@ -96,15 +96,19 @@ window.addEventListener("resize", (event) => {
 // *** Main ***
 
 const main = () => {
-  const url = new URL(window.location.href);
-  const rows = url.searchParams.get("rows");
-  const cols = url.searchParams.get("cols");
+  try {
+    const url = new URL(window.location.href);
+    const rows = url.searchParams.get("rows");
+    const cols = url.searchParams.get("cols");
 
-  buildLayout(url, rows, cols);
-  loadCells(url, rows, cols);
+    buildLayout(url, rows, cols);
+    loadCells(url, rows, cols);
 
-  // Refresh the page every hour
-  setInterval(loadCells, 1000 * 60 * 60);
+    // Refresh the page every hour
+    setInterval(loadCells, 1000 * 60 * 60);
+  } catch (error) {
+    console.error(error);
+  }
 }
 
 main();

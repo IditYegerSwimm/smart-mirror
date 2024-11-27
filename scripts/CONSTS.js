@@ -1,4 +1,4 @@
-const WEATHER_IMAGES_TEST = {
+const WEATHER_IMAGES = {
   "clear-day": "images/sunny.png",
   "clear-night": "images/clear_night.png",
   "rain": "images/light_rain.png",
