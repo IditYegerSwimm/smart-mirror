@@ -12,8 +12,8 @@ test
 
 <!-- Steps - Do not remove this comment -->
 1. [test doc 1](test-doc-1.qfar8hsz.sw.md)
-2. [test doc 2](test-doc-2.i78jl8kt.sw.md)
-3. [test doc 3](test-doc-3.h5zdvcip.sw.md)
+2. [test doc 3](test-doc-3.h5zdvcip.sw.md)
+3. [test doc 2](test-doc-2.i78jl8kt.sw.md)
 
 
 <br/>
