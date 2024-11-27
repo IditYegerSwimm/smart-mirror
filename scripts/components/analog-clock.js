@@ -3,7 +3,7 @@ import { getImgSize } from '../globals.js';
 // *** Analog Clock settings ***
 export const analogClockCellsArray = [];
 
-export const displayAnalogClock123 = (cellNum) => {
+export function displayAnalogClock123 (cellNum) {
   // Set the div of the clock
   let analogClockParent = document.getElementById(`div${cellNum}`);
 
