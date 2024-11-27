@@ -25,7 +25,7 @@ const bnm123 = (cellToUpdate) => {
 }
 
 
-const checkTime = (i) => {
+const checkTimeForClock = (i) => {
   // add zero in front of numbers < 10
   if (i < 10) {
     i = `0${i}`;
