@@ -49,7 +49,7 @@ const drawClock = (params) => {
   drawTime(ctx, radius);
 }
 
-const drawFace = (ctx, radius) => {
+const drawFaceForClock = (ctx, radius) => {
   let grad;
 
   ctx.beginPath();
