@@ -1,7 +1,7 @@
 ---
-title: Wikipedia component12312
+title: Wikipedia component
 ---
-<SwmSnippet path="scripts/components/wiki.js" line="30">
+<SwmSnippet path="/scripts/componentsFolder/wiki.js" line="30">
 
 ---
 
@@ -20,4 +20,4 @@ asfdwrfawef
 
 </SwmSnippet>
 
-<SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0=" repo-name="smart-mirror"><sup>Powered by [Swimm](https://swimm-web-app.web.app/)</sup></SwmMeta>
+<SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBc21hcnQtbWlycm9yJTNBJTNBSWRpdFllZ2VyU3dpbW0=" repo-name="smart-mirror"><sup>Powered by [Swimm](https://staging.swimm.cloud/)</sup></SwmMeta>
