@@ -13,11 +13,10 @@ This is a release day test.
 <!-- Steps - Do not remove this comment -->
 1. [Test doc 1](test-doc-1.bsukej4c.sw.md)
 2. [Dev environment setup](dev-environment-setup.1wh8p6ug.sw.md)
-3. [Test doc 2](test-doc-2.gw6y1rla.sw.md)
-4. [Idit is testing 30/04/2025](idit-is-testing-30042025.1ggafxm8.sw.md)
-5. [Wikipedia component](wikipedia-component.b2z05626.sw.md)
-6. [Testing playlists 19.11.24](testing-playlists-191124.7pde5kyi.pl.sw.md)
-7. [Youtube video test](https://www.youtube.com/watch?v=wCu3jyiuwb4 )
+3. [Idit is testing 30/04/2025](idit-is-testing-30042025.1ggafxm8.sw.md)
+4. [Wikipedia component](wikipedia-component.b2z05626.sw.md)
+5. [Testing playlists 19.11.24](testing-playlists-191124.7pde5kyi.pl.sw.md)
+6. [Youtube video test](https://www.youtube.com/watch?v=wCu3jyiuwb4 )
 
 
 <br/>
